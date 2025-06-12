@@ -18,7 +18,9 @@ My ability to **bridge the gap between technical and non-technical teams** ensur
   - Learning SAP MM (Materials Management)
   - SAP ERP Essential Training
   - MySQL for Data Analytics
-
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/a4fcde39-0019-40e5-8f95-8a441b70ec91/thumbnail" >
+</p>
 ## 📊 My Work
 Explore my **GitHub portfolio** for my latest data analytics projects!
 
