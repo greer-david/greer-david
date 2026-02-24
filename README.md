@@ -1,6 +1,4 @@
-# Hi there, I'm David Greer! 👋
-
-## 🚀 About Me
+##  About Me
 I'm passionate about leveraging data to drive impactful decisions. With experience in **Data Governance, SQL, and Tableau**, I transform raw data into actionable insights.
 
 At the **Mississippi Office of the State Auditor**, I led the development of an **end-to-end Continuing Professional Education (CPE) hours tracking system**. This initiative included:
@@ -22,13 +20,13 @@ My ability to **bridge the gap between technical and non-technical teams** ensur
   <img src="https://api.boot.dev/v1/users/public/a4fcde39-0019-40e5-8f95-8a441b70ec91/thumbnail" >
 </p>
 
-## 📊 My Work
+##  My Work
 Explore my **GitHub portfolio** for my latest data analytics projects!
 
 - **Personal Website:** [greer-david.github.io](https://greer-david.github.io/)
 - **Tableau Projects:** [Public Tableau Profile](https://public.tableau.com/app/profile/greer.david/vizzes)
 
-## 💼 Experience
+##  Experience
 
 ### **Data Governance Analyst | Southern Farm Bureau Life Insurance**
 **September 2024 - Present | Jackson, MS**  
@@ -40,11 +38,7 @@ Explore my **GitHub portfolio** for my latest data analytics projects!
 - Spearheaded the use of **SQL and Power Query**, optimizing data management and scalability.
 _(See more on my [LinkedIn](https://www.linkedin.com/in/greer-david) profile.)_
 
-## 📬 Contact Me
-📧 Email: **[greer3david@gmail.com](mailto:greer3david@gmail.com)**  
-📞 Mobile: **662-538-8384**  
-🔗 LinkedIn: **[linkedin.com/in/greer-david](https://www.linkedin.com/in/greer-david)**  
-
----
-
-Let's connect and talk **data, analytics, and innovation!** 🚀
+##  Contact Me
+ Email: **[greer3david@gmail.com](mailto:greer3david@gmail.com)**  
+ Mobile: **662-538-8384**  
+ LinkedIn: **[linkedin.com/in/greer-david](https://www.linkedin.com/in/greer-david)**  
