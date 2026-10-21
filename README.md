@@ -1,44 +1,35 @@
-##  About Me
-I'm passionate about leveraging data to drive impactful decisions. With experience in **Data Governance, SQL, and Tableau**, I transform raw data into actionable insights.
+## Hi, I'm David
 
-At the **Mississippi Office of the State Auditor**, I led the development of an **end-to-end Continuing Professional Education (CPE) hours tracking system**. This initiative included:
-- A **Tableau dashboard** providing real-time visibility and intuitive visualizations.
-- A **Microsoft Power Apps portal** for user-friendly data entry, reducing errors and manual workload.
-- The integration of **SQL and Power Query** to enhance data management accuracy.
+I'm a **Data Analytics Developer** at [Ergon](https://ergon.com) in Mississippi, on a small central BI team. I build governed **Power BI semantic models and reports on Microsoft Fabric**, plus the **Git and CI/CD workflow** the team ships through.
 
-My ability to **bridge the gap between technical and non-technical teams** ensures efficient collaboration and impactful data solutions. I'm always seeking opportunities for growth, innovation, and continuous improvement.
+I came to BI from pricing, purchasing, auditing and data governance, so I care a lot about whether people can actually trust and use the numbers.
 
-## 🔧 Skills & Certifications
-- **Data Ethics | AI Ethics | SQL | Tableau | Power Apps**
-- Certified in:
-  - Learning SQL Programming
-  - Intro to Data & AI Ethics
-  - Learning SAP MM (Materials Management)
-  - SAP ERP Essential Training
-  - MySQL for Data Analytics
-<p align="left">
-  <img src="https://api.boot.dev/v1/users/public/a4fcde39-0019-40e5-8f95-8a441b70ec91/thumbnail" >
-</p>
+### What I'm working on
 
-##  My Work
-Explore my **GitHub portfolio** for my latest data analytics projects!
+- **Semantic models as code:** PBIP/TMDL models in Git, a shared library of DAX UDFs so each metric is defined once, and validation checks in CI before deploy
+- **BI DevOps:** GitHub Actions + `fabric-cicd` deployments across dev and prod, with 400+ PRs through the process so far
+- **AI-assisted development:** team workflows with Claude Code and Codex, including shared config in source control, guardrails on agent access, and issue → draft PR for human review
+- **Governance:** lineage and impact analysis, adoption analytics, and a Fabric architecture with separate zones for engineering, governed models and report delivery
 
-- **Personal Website:** [greer-david.github.io](https://greer-david.github.io/)
-- **Tableau Projects:** [Public Tableau Profile](https://public.tableau.com/app/profile/greer.david/vizzes)
+### Currently learning
 
-##  Experience
+- dbt and the wider analytics engineering stack
+- Semantic layers and MCP servers for giving AI agents safe access to data
 
-### **Data Governance Analyst | Southern Farm Bureau Life Insurance**
-**September 2024 - Present | Jackson, MS**  
+### Tools
 
-### **Data Analyst | Mississippi Office of the State Auditor**
-**September 2023 - August 2024 | Jackson, MS**  
-- Developed a **CPE tracking system**, integrating a Tableau dashboard for real-time insights.
-- Implemented a **Power Apps user entry portal**, reducing human error and streamlining processes.
-- Spearheaded the use of **SQL and Power Query**, optimizing data management and scalability.
-_(See more on my [LinkedIn](https://www.linkedin.com/in/greer-david) profile.)_
+- **Modeling & BI:** Power BI (PBIP/TMDL, PBIR) · DAX · Tabular Editor 3 · Tableau
+- **Data:** SQL · PySpark · Delta Lake · Microsoft Fabric (Direct Lake, OneLake, notebooks, pipelines)
+- **DevOps:** Git · GitHub Actions · fabric-cicd
+- **AI:** Claude Code · Codex
+- **Also:** Python · React/TypeScript · Power Apps · Microsoft Purview
 
-##  Contact Me
- Email: **[greer3david@gmail.com](mailto:greer3david@gmail.com)**  
- Mobile: **662-538-8384**  
- LinkedIn: **[linkedin.com/in/greer-david](https://www.linkedin.com/in/greer-david)**  
+BBA, Mississippi State University · Certified Data Management Professional (CDMP)
+
+Most of my day-to-day work lives in private company repos.
+
+<img src="https://api.boot.dev/v1/users/public/a4fcde39-0019-40e5-8f95-8a441b70ec91/thumbnail" alt="Boot.dev profile" height="120">
+
+### Get in touch
+
+[LinkedIn](https://www.linkedin.com/in/greer-david) · [greer3david@gmail.com](mailto:greer3david@gmail.com)
